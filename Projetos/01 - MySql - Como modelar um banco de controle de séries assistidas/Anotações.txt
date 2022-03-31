@@ -1,0 +1,1 @@
+Visando economia de espaço, devemos aproveitar toda oportunidade de utilizar números em vez de strings nos tipos de dados
