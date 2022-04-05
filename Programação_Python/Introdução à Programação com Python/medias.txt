@@ -1,0 +1,5 @@
+[{'Rafael': 7.5}
+ {'Felipe': 6.5}
+ {'Galleani': 6.5}
+ {'Cesar': 6.75}
+ {'Bruno': 10.0}]
